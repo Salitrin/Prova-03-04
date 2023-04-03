@@ -1,0 +1,20 @@
+h1 {
+    font-size: 40px;
+}
+
+.p1h2 {
+    background-color: blueviolet;
+}
+
+.p2h2 {
+    font-size: 60px;
+}
+
+.lista1 {
+    background-color: aqua;
+    padding-left: 15px;
+}
+
+.anc {
+    text-align: center;
+}
